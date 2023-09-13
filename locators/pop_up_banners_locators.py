@@ -1,0 +1,12 @@
+class PopupBannersLocators:
+    hyperlink_popup_banners_xpath = "//a[normalize-space()='Popup Banners']"
+    button_create_xpath = "//button[normalize-space()='Create banner']"
+    button_image_xpath = "//button[normalize-space()='Choose new image']"
+    input_schedule_start_time_xpath = "(//input[@id='schedule'])[1]"
+    input_schedule_end_time_xpath = "(//input[@id='schedule'])[2]"
+    button_save_xpath = "//button[normalize-space()='Save']"
+    button_edit_xpath = "//tbody/tr[1]/td[5]/button[1]"
+    button_delete_xpath = "//tbody/tr[1]/td[5]/button[2]"
+    button_accept_delete_xpath = "//button[normalize-space()='Delete']"
+    button_cancel_xpath = "(//button[@type='button'][normalize-space()='Cancel'])[2]"
+    image_path = "C:\\Users\\Ishadi\\Documents\\GitHub\\playpointz-test-automation\\Images\\test_image_popup_banner.jpg"

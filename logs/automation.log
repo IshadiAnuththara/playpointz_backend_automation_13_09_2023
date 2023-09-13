@@ -1,0 +1,284 @@
+2023-08-28 11:43:05,506 - root - ERROR - *********  Create campaign Test Failed ************
+2023-08-28 11:50:43,264 - root - ERROR - *********  Create campaign Test Failed ************
+2023-08-28 13:07:31,756 - root - ERROR - *********  Create campaign Test Failed ************
+2023-08-28 13:12:34,281 - root - ERROR - *********  Create campaign Test Failed ************
+2023-08-28 13:20:04,445 - root - ERROR - *********  Create campaign Test Failed ************
+2023-08-28 13:22:45,871 - root - INFO - ********* Create campaign Test Passed *********
+2023-08-28 13:22:45,872 - root - INFO - ********** Create Campaigns successfully **********
+2023-08-28 13:34:03,269 - root - ERROR - ********* Ignore Complains Test Failed *********
+2023-08-28 13:36:46,261 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022953F3BF70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2be5fa1ab42f03ab98702a5cf32e86ae/window
+2023-08-28 13:36:50,326 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022953F3B6A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2be5fa1ab42f03ab98702a5cf32e86ae/window
+2023-08-28 13:36:54,393 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022953F3B5B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2be5fa1ab42f03ab98702a5cf32e86ae/window
+2023-08-28 13:39:57,367 - root - INFO - ********* Ignore complains Test Passed *********
+2023-08-28 13:41:28,109 - root - INFO - ********* Ignore complains Test Passed *********
+2023-08-28 13:43:51,907 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020836D3D7C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2ba97856e09de7a961f5765d0972281/window
+2023-08-28 13:43:55,979 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020836D3DE80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2ba97856e09de7a961f5765d0972281/window
+2023-08-28 13:44:00,066 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020836D4C040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2ba97856e09de7a961f5765d0972281/window
+2023-08-28 13:47:04,091 - root - INFO - ********* Ignore complains Test Passed *********
+2023-08-28 13:49:29,068 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020103E2E8B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/393a2159c499de58c5e07cce7cc5ea5b/window
+2023-08-28 13:49:33,130 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020103E2EF70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/393a2159c499de58c5e07cce7cc5ea5b/window
+2023-08-28 13:49:37,190 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020103E5C130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/393a2159c499de58c5e07cce7cc5ea5b/window
+2023-08-28 13:53:27,845 - root - INFO - ********* Ignore complains Test Passed *********
+2023-08-28 14:17:55,691 - root - INFO - ********* Create Pop-up Banners Test Passed *********
+2023-08-28 14:18:39,512 - root - ERROR - ********* Edit Pop-up Banners Test Failed *********
+2023-08-28 14:19:01,723 - root - ERROR - ********* Delete Pop-up Banners Test Failed *********
+2023-08-28 14:22:03,488 - root - INFO - ********* Create Pop-up Banners Test Passed *********
+2023-08-28 14:22:54,388 - root - ERROR - ********* Edit Pop-up Banners Test Failed *********
+2023-08-28 14:23:14,220 - root - INFO - ********* Delete Pop-up Banners Test Passed *********
+2023-08-28 14:25:59,176 - root - INFO - ********* Create Pop-up Banners Test Passed *********
+2023-08-28 14:26:48,567 - root - ERROR - ********* Edit Pop-up Banners Test Failed *********
+2023-08-28 14:27:08,333 - root - INFO - ********* Delete Pop-up Banners Test Passed *********
+2023-08-28 14:29:50,916 - root - INFO - ********* Create Pop-up Banners Test Passed *********
+2023-08-28 14:30:32,676 - root - INFO - ********* Edit Pop-up Banners Test Passed *********
+2023-08-28 14:30:55,265 - root - INFO - ********* Delete Pop-up Banners Test Passed *********
+2023-08-28 15:48:57,594 - root - INFO - ********* Create new game Test Passed *********
+2023-08-28 16:43:04,648 - root - ERROR - ********* Delete game Test Failed *********
+2023-08-28 16:43:39,319 - root - ERROR - ********* Edit setting Test Failed *********
+2023-08-28 16:47:52,550 - root - INFO - ********* Edit setting Test Passed *********
+2023-08-28 16:49:04,625 - root - INFO - ********* Create new game Test Passed *********
+2023-08-28 16:50:48,167 - root - INFO - ********* Delete game Test Passed *********
+2023-08-28 16:51:20,801 - root - INFO - ********* Edit setting Test Passed *********
+2023-08-29 11:02:59,418 - root - ERROR - ********* Create new game Test Failed ************
+2023-08-29 11:16:45,544 - root - ERROR - ********* Create new game Test Failed ************
+2023-08-29 11:18:12,788 - root - ERROR - ********* Create new game Test Failed ************
+2023-08-29 11:19:17,879 - root - INFO - ********* Create new game Test Passed *********
+2023-08-29 11:21:04,456 - root - ERROR - ********* Delete game Test Failed *********
+2023-08-29 11:21:41,418 - root - ERROR - ********* Edit setting Test Failed *********
+2023-08-29 11:28:15,848 - root - INFO - ********* Create new game Test Passed *********
+2023-08-29 11:30:08,960 - root - INFO - ********* Delete game Test Passed *********
+2023-08-29 11:30:42,601 - root - INFO - ********* Edit setting Test Passed *********
+2023-08-29 11:38:01,950 - root - INFO - ********* Delete game Test Passed *********
+2023-08-29 11:38:33,444 - root - INFO - ********* Edit setting Test Passed *********
+2023-08-29 11:44:45,653 - root - INFO - ********* Create new game Test Passed *********
+2023-08-29 11:45:31,290 - root - ERROR - ********* Edit game Test Failed *********
+2023-08-29 11:47:41,096 - root - ERROR - ********* Create new game Test Failed ************
+2023-08-29 13:57:18,198 - root - INFO - ********* Create new game Test Passed *********
+2023-08-29 13:59:02,342 - root - INFO - ********* Delete game Test Passed *********
+2023-08-29 13:59:37,341 - root - INFO - ********* Edit setting Test Passed *********
+2023-08-29 14:35:47,562 - root - INFO - ********* Create new game Test Passed *********
+2023-08-29 14:37:20,709 - root - ERROR - ********* Edit game Test Failed *********
+2023-08-29 14:37:48,250 - root - INFO - ********* Delete game Test Passed *********
+2023-08-29 14:38:22,309 - root - INFO - ********* Edit setting Test Passed *********
+2023-09-01 09:56:59,475 - root - INFO - ********** Create Single Quiz - Type - Image **********
+2023-09-01 10:04:20,613 - root - ERROR - ********* Create quiz Test Failed *********
+2023-09-01 10:47:17,824 - root - ERROR - ********* Create quiz Test Failed *********
+2023-09-01 11:05:08,073 - root - INFO - ********* Create quiz Test Passed *********
+2023-09-01 11:05:27,297 - root - INFO - ********** Create Single Quiz - Type - Video **********
+2023-09-01 11:10:46,817 - root - ERROR - ********* Create quiz Test Failed *********
+2023-09-01 11:32:02,708 - root - INFO - ********* Create quiz Test Passed *********
+2023-09-01 13:04:57,996 - root - INFO - ********* Create quiz Test Passed *********
+2023-09-01 13:06:27,309 - root - INFO - ********* Create quiz Test Passed *********
+2023-09-01 13:09:53,058 - root - INFO - ********* Edit quiz Test Passed *********
+2023-09-01 13:10:46,965 - root - INFO - ********* Delete quiz Test Passed *********
+2023-09-01 13:26:13,496 - root - INFO - ********* Create quiz Test Passed *********
+2023-09-01 13:27:41,596 - root - INFO - ********* Create quiz Test Passed *********
+2023-09-01 13:29:14,773 - root - ERROR - ********* Create quiz Test Failed *********
+2023-09-01 13:44:53,853 - root - INFO - ********* Create quiz Test Passed *********
+2023-09-01 13:46:21,842 - root - INFO - ********* Create quiz Test Passed *********
+2023-09-01 13:47:55,434 - root - ERROR - ********* Create quiz Test Failed *********
+2023-09-01 14:03:12,067 - root - INFO - ********* Create quiz Test Passed *********
+2023-09-01 14:04:40,235 - root - INFO - ********* Create quiz Test Passed *********
+2023-09-01 14:06:14,238 - root - ERROR - ********* Create quiz Test Failed *********
+2023-09-01 14:08:52,699 - root - INFO - ********* Edit quiz Test Passed *********
+2023-09-01 14:09:45,158 - root - INFO - ********* Delete quiz Test Passed *********
+2023-09-04 15:40:11,127 - root - ERROR - ********* Player support Test Failed *********
+2023-09-04 15:50:34,355 - root - ERROR - ********* Player support Test Failed *********
+2023-09-04 16:04:01,550 - root - ERROR - ********* Player support Test Failed *********
+2023-09-04 16:06:30,323 - root - ERROR - ********* Player support Test Failed *********
+2023-09-04 16:11:22,854 - root - ERROR - ********* Player support Test Failed *********
+2023-09-05 09:09:39,565 - root - ERROR - ********* Create Store Banners Test Failed *********
+2023-09-05 09:10:13,009 - root - ERROR - ********* Delete Store Banners Test Failed *********
+2023-09-05 09:14:28,090 - root - INFO - ********* Create Store Banners Test Passed *********
+2023-09-05 09:14:50,400 - root - ERROR - ********* Delete Store Banners Test Failed *********
+2023-09-05 09:16:46,598 - root - INFO - ********* Create Store Banners Test Passed *********
+2023-09-05 09:17:08,364 - root - ERROR - ********* Delete Store Banners Test Failed *********
+2023-09-05 09:18:49,145 - root - INFO - ********* Create Store Banners Test Passed *********
+2023-09-05 09:19:15,733 - root - ERROR - ********* Delete Store Banners Test Failed *********
+2023-09-05 09:22:48,849 - root - INFO - ********* Create Store Banners Test Passed *********
+2023-09-05 09:23:12,201 - root - INFO - ********* Delete Store Banners Test Passed *********
+2023-09-05 10:11:32,835 - root - ERROR - ********* Add New Member Test Failed Test Failed *********
+2023-09-05 10:12:19,162 - root - ERROR - ********* Edit Member Test Failed *********
+2023-09-05 10:14:02,021 - root - INFO - ********* Add New Member Test Passed *********
+2023-09-05 10:14:46,365 - root - INFO - ********* Edit Member Test Passed *********
+2023-09-05 12:05:51,729 - root - ERROR - ********* Add User Role Test Failed *********
+2023-09-05 12:06:23,771 - root - INFO - ********* Edit User Role Test Passed *********
+2023-09-05 12:06:49,301 - root - INFO - ********* Remove Permission Test Passed *********
+2023-09-05 14:30:29,915 - root - INFO - ********* Create new quiz schedule Test Passed *********
+2023-09-05 14:31:00,778 - root - ERROR - ********* Edit quiz schedule Test Failed *********
+2023-09-05 14:42:50,785 - root - INFO - ********* Create new quiz schedule Test Passed *********
+2023-09-05 14:43:23,691 - root - ERROR - ********* Edit quiz schedule Test Failed *********
+2023-09-05 14:54:40,779 - root - INFO - ********* Create new quiz schedule Test Passed *********
+2023-09-05 14:55:12,892 - root - ERROR - ********* Edit quiz schedule Test Failed *********
+2023-09-05 14:58:36,386 - root - INFO - ********* Create new quiz schedule Test Passed *********
+2023-09-05 14:59:15,717 - root - ERROR - ********* Edit quiz schedule Test Failed *********
+2023-09-05 15:12:34,528 - root - ERROR - ********* Edit quiz schedule Test Failed *********
+2023-09-05 15:16:37,635 - root - ERROR - ********* Edit quiz schedule Test Failed *********
+2023-09-05 15:17:24,734 - root - ERROR - ********* Delete quiz schedule Test Failed *********
+2023-09-05 15:22:40,344 - root - INFO - ********* Create new quiz schedule Test Passed *********
+2023-09-05 15:23:24,128 - root - ERROR - ********* Edit quiz schedule Test Failed *********
+2023-09-05 15:28:37,874 - root - INFO - ********* Create new quiz schedule Test Passed *********
+2023-09-05 15:29:17,957 - root - INFO - ********* Edit quiz schedule Test Passed *********
+2023-09-05 15:29:58,058 - root - INFO - ********* Delete quiz schedule Test Passed *********
+2023-09-06 11:07:47,941 - root - INFO - ********* Update Settings Test Passed *********
+2023-09-06 11:11:46,445 - root - INFO - ********* Update Settings Test Passed *********
+2023-09-06 14:11:27,787 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 14:17:26,279 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 14:26:05,355 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 14:29:26,716 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 14:30:57,111 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 14:31:54,729 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 14:35:10,839 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 14:58:14,241 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 14:59:11,762 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 15:00:39,521 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 15:01:36,907 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 15:09:05,038 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 15:10:02,461 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 15:23:55,297 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 15:24:52,768 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 15:27:15,356 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 15:28:36,436 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 15:29:31,887 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 15:43:54,420 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 15:45:10,170 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 15:46:05,148 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 15:46:46,155 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 15:58:15,399 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 16:01:21,037 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:02:38,686 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:03:33,811 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:04:37,249 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 16:05:46,186 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 16:16:37,038 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:17:52,748 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:18:49,263 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:19:52,897 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 16:21:01,826 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 16:25:14,513 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:26:31,091 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:27:28,075 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:28:30,280 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:29:41,185 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:29:41,253 - root - INFO - ********** Test_CreateGame_FindingMissingCharacter_Invalid_WithoutEnterMinusPointz **********
+2023-09-06 16:52:23,748 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:53:39,293 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:54:34,482 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:55:34,468 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:56:38,857 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:57:49,456 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 16:58:58,133 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-06 17:00:07,992 - root - INFO - ********* Create Game Negative Test Passed *********
+2023-09-06 17:01:16,561 - root - ERROR - ********* Create Game Negative Test Failed *********
+2023-09-08 10:27:26,938 - root - ERROR - ********* Login with valid username and invalid password Test Failed *********
+2023-09-08 10:46:14,368 - root - ERROR - ********* Login with valid username and invalid password Test Failed *********
+2023-09-08 10:58:36,666 - root - INFO - ********* Login with valid username and invalid password Test Passed *********
+2023-09-08 10:58:46,994 - root - INFO - ********* Login with invalid username and valid password Test Passed *********
+2023-09-08 11:02:25,667 - root - INFO - ********* Login with valid username and invalid password Test Passed *********
+2023-09-08 11:02:36,211 - root - INFO - ********* Login with invalid username and valid password Test Passed *********
+2023-09-08 11:02:46,041 - root - INFO - ********* Login with invalid username and invalid password Test Passed *********
+2023-09-08 11:03:01,492 - root - ERROR - ********* Login with without enter username and password Test Failed *********
+2023-09-08 11:03:24,104 - root - INFO - ********* Login with valid username and invalid password Test Passed *********
+2023-09-08 11:03:34,343 - root - INFO - ********* Login with invalid username and valid password Test Passed *********
+2023-09-08 11:03:45,385 - root - INFO - ********* Login with invalid username and invalid password Test Passed *********
+2023-09-08 11:03:56,725 - root - ERROR - ********* Login with without enter username and password Test Failed *********
+2023-09-08 11:05:39,791 - root - INFO - ********* Login with valid username and invalid password Test Passed *********
+2023-09-08 11:05:49,846 - root - INFO - ********* Login with invalid username and valid password Test Passed *********
+2023-09-08 11:06:00,666 - root - INFO - ********* Login with invalid username and invalid password Test Passed *********
+2023-09-08 11:06:11,323 - root - ERROR - ********* Login with without enter username and password Test Failed *********
+2023-09-08 11:06:30,931 - root - INFO - ********* Login with valid username and invalid password Test Passed *********
+2023-09-08 11:06:42,026 - root - INFO - ********* Login with invalid username and valid password Test Passed *********
+2023-09-08 11:06:52,698 - root - INFO - ********* Login with invalid username and invalid password Test Passed *********
+2023-09-08 11:07:03,150 - root - INFO - ********* Login with without enter username and password Test Passed *********
+2023-09-08 16:35:27,656 - root - ERROR - ********* Login with without enter username and password Test Failed *********
+2023-09-08 16:36:12,448 - root - ERROR - ********* Login with without enter username and password Test Failed *********
+2023-09-08 16:37:27,726 - root - ERROR - ********* Login with without enter username and password Test Failed *********
+2023-09-08 16:41:19,996 - root - INFO - ********* Create pop-up banners negative testing -  Test Passed *********
+2023-09-08 16:42:33,403 - root - INFO - ********* Create pop-up banners negative testing -  Test Passed *********
+2023-09-08 16:43:17,098 - root - INFO - ********* Create pop-up banners negative testing -  Test Passed *********
+2023-09-08 16:44:01,436 - root - INFO - ********* Create pop-up banners negative testing -  Test Passed *********
+2023-09-08 16:44:49,198 - root - INFO - ********* Create pop-up banners negative testing -  Test Passed *********
+2023-09-11 11:00:58,804 - root - ERROR - ********* Create quiz negative testing -  Test Failed *********
+2023-09-11 11:01:57,479 - root - INFO - ********* Create quiz negative testing -  Test Passed *********
+2023-09-11 11:02:46,126 - root - INFO - ********* Create quiz negative testing -  Test Passed *********
+2023-09-11 11:03:29,269 - root - INFO - ********* Create quiz negative testing -  Test Passed *********
+2023-09-11 11:04:40,269 - root - INFO - ********* Create quiz negative testing -  Test Passed *********
+2023-09-11 11:05:19,971 - root - INFO - ********* Create quiz negative testing -  Test Passed *********
+2023-09-11 11:05:59,877 - root - INFO - ********* Create quiz negative testing -  Test Passed *********
+2023-09-11 11:06:38,879 - root - INFO - ********* Create quiz negative testing -  Test Passed *********
+2023-09-11 11:07:22,414 - root - ERROR - ********* Create quiz negative testing -  Test Failed *********
+2023-09-11 11:12:08,705 - root - INFO - ********* Create quiz negative testing -  Test Passed *********
+2023-09-11 11:23:50,530 - root - ERROR - ********* Create quiz negative testing -  Test Failed *********
+2023-09-11 12:59:27,061 - root - INFO - ********* Create quiz categories negative testing -  Test Passed *********
+2023-09-11 13:00:03,794 - root - ERROR - ********* Create quiz categories negative testing -  Test Failed *********
+2023-09-11 13:00:42,839 - root - INFO - ********* Create quiz categories negative testing -  Test Passed *********
+2023-09-11 13:01:14,337 - root - INFO - ********* Create quiz categories negative testing -  Test Passed *********
+2023-09-11 13:54:12,237 - root - INFO - ********* Create quiz schedule negative testing -  Test Passed *********
+2023-09-11 13:54:55,883 - root - INFO - ********* Create quiz schedule negative testing -  Test Passed *********
+2023-09-11 13:55:42,618 - root - INFO - ********* Create quiz schedule negative testing -  Test Passed *********
+2023-09-11 14:34:27,461 - root - INFO - ********* Create Store banners negative testing -  Test Passed *********
+2023-09-11 14:35:03,369 - root - INFO - ********* Create Store banners negative testing -  Test Passed *********
+2023-09-11 14:35:47,854 - root - INFO - ********* Create Store banners negative testing -  Test Passed *********
+2023-09-11 14:36:28,915 - root - INFO - ********* Create Store banners negative testing -  Test Passed *********
+2023-09-11 15:59:16,399 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-11 15:59:27,524 - root - INFO - ********* Test 002: Login with invalid username and valid password - Test Passed *********
+2023-09-11 15:59:39,443 - root - INFO - ********* Test 003: Login with invalid username and invalid password - Test Passed *********
+2023-09-11 15:59:50,211 - root - INFO - ********* Test 004: Login without username and invalid password - Test Passed *********
+2023-09-11 16:14:34,658 - root - ERROR - ********* Assertion for LoginPage Test Failed *********
+2023-09-11 16:18:11,234 - root - ERROR - ********* Assertion for LoginPage Test Failed *********
+2023-09-11 16:28:14,102 - root - INFO - ********* Assertion for LoginPage Test Passed *********
+2023-09-12 08:55:36,868 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 08:55:47,804 - root - INFO - ********* Test 002: Login with invalid username and valid password - Test Passed *********
+2023-09-12 08:55:59,154 - root - INFO - ********* Test 003: Login with invalid username and invalid password - Test Passed *********
+2023-09-12 08:56:09,680 - root - INFO - ********* Test 004: Login without username and invalid password - Test Passed *********
+2023-09-12 08:57:04,802 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 08:57:15,465 - root - INFO - ********* Test 002: Login with invalid username and valid password - Test Passed *********
+2023-09-12 08:57:27,804 - root - INFO - ********* Test 003: Login with invalid username and invalid password - Test Passed *********
+2023-09-12 08:57:40,124 - root - INFO - ********* Test 004: Login without username and invalid password - Test Passed *********
+2023-09-12 08:59:19,504 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 08:59:31,085 - root - ERROR - ********* Test 002: Login with invalid username and valid password - Test Failed *********
+2023-09-12 08:59:43,614 - root - INFO - ********* Test 003: Login with invalid username and invalid password - Test Passed *********
+2023-09-12 08:59:54,603 - root - INFO - ********* Test 004: Login without username and invalid password - Test Passed *********
+2023-09-12 09:36:27,199 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 09:36:37,856 - root - INFO - ********* Test 002: Login with invalid username and valid password - Test Passed *********
+2023-09-12 09:36:48,043 - root - INFO - ********* Test 003: Login with invalid username and invalid password - Test Passed *********
+2023-09-12 09:36:59,884 - root - INFO - ********* Test 004: Login without username and invalid password - Test Passed *********
+2023-09-12 09:37:22,809 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 10:13:21,879 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 10:13:31,737 - root - INFO - ********* Test 002: Login with invalid username and valid password - Test Passed *********
+2023-09-12 10:13:43,596 - root - INFO - ********* Test 003: Login with invalid username and invalid password - Test Passed *********
+2023-09-12 10:13:53,432 - root - INFO - ********* Test 004: Login without username and invalid password - Test Passed *********
+2023-09-12 10:20:58,680 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 10:21:09,350 - root - INFO - ********* Test 002: Login with invalid username and valid password - Test Passed *********
+2023-09-12 10:21:20,298 - root - INFO - ********* Test 003: Login with invalid username and invalid password - Test Passed *********
+2023-09-12 10:21:32,761 - root - INFO - ********* Test 004: Login without username and invalid password - Test Passed *********
+2023-09-12 10:36:20,662 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 10:36:32,416 - root - INFO - ********* Test 002: Login with invalid username and valid password - Test Passed *********
+2023-09-12 10:36:42,549 - root - INFO - ********* Test 003: Login with invalid username and invalid password - Test Passed *********
+2023-09-12 10:36:54,208 - root - INFO - ********* Test 004: Login without username and invalid password - Test Passed *********
+2023-09-12 10:37:25,586 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 10:37:37,208 - root - INFO - ********* Test 002: Login with invalid username and valid password - Test Passed *********
+2023-09-12 10:37:50,218 - root - INFO - ********* Test 003: Login with invalid username and invalid password - Test Passed *********
+2023-09-12 10:38:01,883 - root - ERROR - ********* Test 004: Login without username and invalid password - Test Failed *********
+2023-09-12 10:41:03,183 - root - INFO - ********* Test 001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 10:41:13,412 - root - INFO - ********* Test 002: Login with invalid username and valid password - Test Passed *********
+2023-09-12 10:41:25,199 - root - INFO - ********* Test 003: Login with invalid username and invalid password - Test Passed *********
+2023-09-12 10:41:37,159 - root - ERROR - ********* Test 004: Login without username and invalid password - Test Failed *********
+2023-09-12 10:59:05,828 - root - INFO - ********* test_001 - Test Passed *********
+2023-09-12 10:59:15,818 - root - INFO - ********* test_002 - Test Passed *********
+2023-09-12 10:59:27,459 - root - INFO - ********* test_003 - Test Passed *********
+2023-09-12 10:59:37,520 - root - ERROR - ********* test_004 - Test Failed *********
+2023-09-12 11:01:04,238 - root - INFO - ********* Test_001: Login with valid username and invalid password - Test Passed *********
+2023-09-12 11:01:15,652 - root - INFO - ********* Test_002: Login with invalid username and valid password - Test Passed *********
+2023-09-12 11:01:27,386 - root - INFO - ********* Test_003: Login with invalid username and invalid password - Test Passed *********
+2023-09-12 11:01:38,797 - root - ERROR - ********* Test_004: Login without username and invalid password - Test Failed *********
+2023-09-12 11:18:19,731 - root - ERROR - ********* test_009 - Test Failed *********
+2023-09-12 11:26:11,871 - root - ERROR - ********* test_001 - Test Failed *********
+2023-09-12 11:39:34,373 - root - INFO - ********* Assertion for LoginPage Test Passed *********
+2023-09-12 11:55:30,251 - root - ERROR - ********* Assertion for AnnouncementPage Test Failed *********
+2023-09-12 12:04:52,602 - root - INFO - ********* Assertion for test_create_announcement Test Passed *********
+2023-09-12 12:07:02,698 - root - INFO - ********* Assertion for test_create_announcement Test Passed *********
+2023-09-12 13:22:35,838 - root - INFO - ********* Assertion for test_create_announcement Test Passed *********
+2023-09-12 13:27:55,968 - root - ERROR - ********* Assertion for test_create_announcement Test Failed *********
+2023-09-12 14:06:12,981 - root - ERROR - ********* Assertion for test_add_items Test Failed *********
+2023-09-12 14:16:13,398 - root - ERROR - ********* Assertion for test_add_items Test Failed *********
+2023-09-13 10:59:02,862 - root - INFO - ********* Assertion for test_login_with_valid_credentials Test Passed *********
